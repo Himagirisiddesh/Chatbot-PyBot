@@ -29,7 +29,7 @@ PyBot/
 Screenshots
 
 Chat interface:  
-![Chat Interface](<img width="812" height="921" alt="image" src="https://github.com/user-attachments/assets/554a56ed-32d1-4c9c-9964-6651a6e9dc46" />)  
+![ChatGPT-like PyBot Interface](https://user-images.githubusercontent.com/12345678/example-image.png)  
 
 
  
