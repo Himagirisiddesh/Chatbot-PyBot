@@ -14,13 +14,13 @@ Features:-
 
 Dynamic responses including:-
 
-5.Greetings & farewells
+1.Greetings & farewells
 
-6.Jokes and motivational quotes
+2.Jokes and motivational quotes
 
-7.Current date and time
+3.Current date and time
 
-8.Favorite color tracking
+4.Favorite color tracking
 
 Keyboard support:- Press Enter to send messages
 
