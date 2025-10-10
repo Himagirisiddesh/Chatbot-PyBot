@@ -1,6 +1,6 @@
 PyBot – ChatGPT-like Desktop Chatbot
 
-Overview
+Overview:-
 
 PyBot is an intelligent, interactive desktop chatbot built using Python and Tkinter. It provides a ChatGPT-like experience with a graphical interface, typing animations, and a memory of previous interactions. It can respond to greetings, jokes, quotes, favorite colors, and date/time queries.
 
@@ -12,7 +12,7 @@ Features:-
 
 3.Memory of last 10 topics and user information (name, favorite color)
 
-Dynamic responses including:
+Dynamic responses including:-
 
 5.Greetings & farewells
 
@@ -27,15 +27,18 @@ Keyboard support:- Press Enter to send messages
 Lightweight & easy to run:- Built purely in Python with Tkinter
 
 PyBot/
+
 ├── main.py          # Main Python chatbot code
+
 ├── README.md        # Project documentation
-├── images/          # Screenshots (optional)
+
+├── images/          # Screenshots 
 
 
 Screenshots
 
 Chat interface:  
-![PyBot Interface](<src="https://github.com/user-attachments/assets/ca8ade8a-b2f3-4839-ac51-026b6d1298ee" />) 
+![PyBot Interface](https://i.imgur.com/8KQ7Y6Jl.png)
 
 
 
