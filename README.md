@@ -29,7 +29,9 @@ PyBot/
 Screenshots
 
 Chat interface:  
-![PyBot Interface](https://user-images.githubusercontent.com/your-user-id/random-string/image.png) 
+![PyBot Interface](<src="https://github.com/user-attachments/assets/ca8ade8a-b2f3-4839-ac51-026b6d1298ee" />) 
+
+
 
 
  
