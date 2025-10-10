@@ -29,7 +29,7 @@ PyBot/
 Screenshots
 
 Chat interface:  
-![ChatGPT-like PyBot Interface](https://user-images.githubusercontent.com/12345678/example-image.png)  
+![PyBot Interface](https://user-images.githubusercontent.com/your-user-id/random-string/image.png) 
 
 
  
