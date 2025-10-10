@@ -32,13 +32,8 @@ PyBot/
 
 ├── README.md        # Project documentation
 
-├── images/          # Screenshots 
+├── images           # Screenshots 
 
-
-Screenshots
-
-Chat interface:  
-![PyBot Interface](https://i.imgur.com/8KQ7Y6Jl.png)
 
 
 
