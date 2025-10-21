@@ -1,4 +1,4 @@
-PyBot – ChatGPT-like Desktop Chatbot
+PyBot – Desktop Chatbot
 
 Overview:-
 
