@@ -1,4 +1,4 @@
-PyBot – Desktop Chatbot
+Chatbot PyBot
 
 Overview:-
 
