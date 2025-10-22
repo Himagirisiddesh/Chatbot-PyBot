@@ -32,7 +32,7 @@ PyBot/
 
 ├── README.md        # Project documentation
 
-├── images           # Screenshots 
+
 
 
 
